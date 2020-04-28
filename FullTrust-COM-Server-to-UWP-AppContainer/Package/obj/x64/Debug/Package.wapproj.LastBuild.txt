@@ -1,0 +1,21 @@
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\Package\Images\SplashScreen.scale-200.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\Package\Images\LockScreenLogo.scale-200.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\Package\Images\Square150x150Logo.scale-200.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\Package\Images\Square44x44Logo.scale-200.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\Package\Images\StoreLogo.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\Package\Images\Wide310x150Logo.scale-200.png
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\Package\bin\x64\Debug\resources.pri
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\x64\Debug\FullTrust Process.exe
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\x64\Debug\FullTrust Process.pdb
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\x64\Debug\UWP App\UWP App.pdb
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\x64\Debug\UWP App\UWP App.exe
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\Assets\LockScreenLogo.scale-200.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\Assets\SplashScreen.scale-200.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\Assets\Square150x150Logo.scale-200.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\Assets\Square44x44Logo.scale-200.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\Assets\StoreLogo.png
+C:\Users\Andrew.Schmidt\source\MicrosoftSupport\UWP App\UWP App\Assets\Wide310x150Logo.scale-200.png
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll
